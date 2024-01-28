@@ -1,0 +1,6 @@
+﻿<Table TableName="POOrder">
+    <Column TableName="POOrder" ColumnName="usrClimateIqAirError" ColumnType="string" AllowNull="True" MaxLength="1000" DecimalPrecision="0" DecimalLength="0" IsNewColumn="True" IsUnicode="True" />
+    <Column TableName="POOrder" ColumnName="UsrClimateIqAirResult" ColumnType="decimal" AllowNull="True" DecimalPrecision="6" DecimalLength="19" IsNewColumn="True" IsUnicode="True" />
+    <Column TableName="POOrder" ColumnName="usrClimateIqLandError" ColumnType="string" AllowNull="True" MaxLength="1000" DecimalPrecision="0" DecimalLength="0" IsNewColumn="True" IsUnicode="True" />
+    <Column TableName="POOrder" ColumnName="usrClimateIqLandResult" ColumnType="decimal" AllowNull="True" DecimalPrecision="6" DecimalLength="19" IsNewColumn="True" IsUnicode="True" />
+</Table>

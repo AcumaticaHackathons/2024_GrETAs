@@ -1,0 +1,6 @@
+﻿<Table TableName="SOShipment">
+    <Column TableName="SOShipment" ColumnName="UsrClimateIqLandResult" ColumnType="decimal" AllowNull="True" DecimalPrecision="6" DecimalLength="19" IsNewColumn="True" IsUnicode="True" />
+    <Column TableName="SOShipment" ColumnName="UsrClimateIqAirResult" ColumnType="decimal" AllowNull="True" DecimalPrecision="6" DecimalLength="19" IsNewColumn="True" IsUnicode="True" />
+    <Column TableName="SOShipment" ColumnName="usrClimateIqLandError" ColumnType="string" AllowNull="True" MaxLength="1000" DecimalPrecision="2" DecimalLength="0" IsNewColumn="True" IsUnicode="True" />
+    <Column TableName="SOShipment" ColumnName="usrClimateIqAirError" ColumnType="string" AllowNull="True" MaxLength="1000" DecimalPrecision="2" DecimalLength="0" IsNewColumn="True" IsUnicode="True" />
+</Table>
